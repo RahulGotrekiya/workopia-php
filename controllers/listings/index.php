@@ -1,3 +1,3 @@
 <?php
 
-echo "dfdsf";
+loadView('listings/index');
